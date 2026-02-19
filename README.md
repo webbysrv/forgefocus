@@ -100,7 +100,7 @@ src/
 |-------|-------|---------|
 | Background | `#F8FAFC` | ![#F8FAFC](https://placehold.co/12x12/F8FAFC/F8FAFC.png) Light slate |
 | Sidebar | `#0F172A` | ![#0F172A](https://placehold.co/12x12/0F172A/0F172A.png) Dark slate |
-| Cards | `#FFFFFF` | ![#FFFFFF](https://placehold.com/12x12/FFFFFF/FFFFFF.png) Pure white |
+| Cards | `#FFFFFF` | ![#FFFFFF](https://placehold.co/12x12/FFFFFF/FFFFFF.png) Pure white |
 | Accent Start | `#8B5CF6` | ![#8B5CF6](https://placehold.co/12x12/8B5CF6/8B5CF6.png) Violet 500 |
 | Accent End | `#D946EF` | ![#D946EF](https://placehold.co/12x12/D946EF/D946EF.png) Fuchsia 500 |
 | Primary Text | `#1E293B` | ![#1E293B](https://placehold.co/12x12/1E293B/1E293B.png) Slate 800 |
@@ -184,5 +184,5 @@ This project is licensed under the **MIT License**
 ---
 
 <p align="center">
-  Built with ❤️ using Next.js & Tailwind CSS by Webbysrv(https://webbysrv.com)
+  Built with ❤️ using Next.js & Tailwind CSS by <a href="https://webbysrv.com">Webbysrv</a>
 </p>
