@@ -8,9 +8,13 @@
 <h1 align="center">⚡ ForgeFocus</h1>
 
 <p align="center">
-  <strong>A premium, minimal deep work dashboard for focus-driven teams.</strong>
+  <strong>A premium, minimal deep work dashboard UI for focus-driven teams.</strong>
   <br />
   Built with Next.js · Tailwind CSS · Lucide React · Recharts
+</p>
+
+<p>
+  **🔗 Live Demo:** [https://forgefocus.vercel.app/](https://forgefocus.vercel.app/)
 </p>
 
 <p align="center">
@@ -94,14 +98,14 @@ src/
 
 | Token | Value | Preview |
 |-------|-------|---------|
-| Background | `#F8FAFC` | ![#F8FAFC](https://via.placeholder.com/12/F8FAFC/F8FAFC.png) Light slate |
-| Sidebar | `#0F172A` | ![#0F172A](https://via.placeholder.com/12/0F172A/0F172A.png) Dark slate |
-| Cards | `#FFFFFF` | ![#FFFFFF](https://via.placeholder.com/12/FFFFFF/FFFFFF.png) Pure white |
-| Accent Start | `#8B5CF6` | ![#8B5CF6](https://via.placeholder.com/12/8B5CF6/8B5CF6.png) Violet 500 |
-| Accent End | `#D946EF` | ![#D946EF](https://via.placeholder.com/12/D946EF/D946EF.png) Fuchsia 500 |
-| Primary Text | `#1E293B` | ![#1E293B](https://via.placeholder.com/12/1E293B/1E293B.png) Slate 800 |
-| Secondary Text | `#64748B` | ![#64748B](https://via.placeholder.com/12/64748B/64748B.png) Slate 500 |
-| Border | `#E6EAF2` | ![#E6EAF2](https://via.placeholder.com/12/E6EAF2/E6EAF2.png) Soft gray |
+| Background | `#F8FAFC` | ![#F8FAFC](https://placehold.co/12x12/F8FAFC/F8FAFC.png) Light slate |
+| Sidebar | `#0F172A` | ![#0F172A](https://placehold.co/12x12/0F172A/0F172A.png) Dark slate |
+| Cards | `#FFFFFF` | ![#FFFFFF](https://placehold.com/12x12/FFFFFF/FFFFFF.png) Pure white |
+| Accent Start | `#8B5CF6` | ![#8B5CF6](https://placehold.co/12x12/8B5CF6/8B5CF6.png) Violet 500 |
+| Accent End | `#D946EF` | ![#D946EF](https://placehold.co/12x12/D946EF/D946EF.png) Fuchsia 500 |
+| Primary Text | `#1E293B` | ![#1E293B](https://placehold.co/12x12/1E293B/1E293B.png) Slate 800 |
+| Secondary Text | `#64748B` | ![#64748B](https://placehold.co/12x12/64748B/64748B.png) Slate 500 |
+| Border | `#E6EAF2` | ![#E6EAF2](https://placehold.co/12x12/E6EAF2/E6EAF2.png) Soft gray |
 
 ### Spacing & Radius
 
@@ -137,7 +141,7 @@ Full-width Recharts `LineChart` with a gradient stroke, dashed horizontal grid l
 
 ### Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/forge-focus-ui)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/webbysrv/forge-focus-ui)
 
 ### Manual Build
 
@@ -175,10 +179,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ---
 
 <p align="center">
-  Built with ❤️ using Next.js & Tailwind CSS
+  Built with ❤️ using Next.js & Tailwind CSS by Webbysrv(https://webbysrv.com)
 </p>
